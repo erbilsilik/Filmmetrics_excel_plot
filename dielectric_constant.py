@@ -1,26 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 17 10:03:22 2016
-
-@author: Naci EKEM
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Oct 16 02:17:31 2016
-
-@author: erbil
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  5 12:17:49 2016
-
-@author: Erbil ŞİLİk
-"""
-
-# -*- coding: utf-8 -*-
-
 
 # import modules
 import pandas as pd 
