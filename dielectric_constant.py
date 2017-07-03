@@ -1,4 +1,3 @@
-
 # import modules
 import pandas as pd 
 import matplotlib.pyplot as plt
@@ -29,8 +28,6 @@ for i in range(0, len(sheet_name)):
 
 plt.xlabel(r'$\mathrm{Wavelength \ (nm)}$')
 plt.ylabel(r'$\mathrm{Dielectric\ Constant}\ (\epsilon_r) $') 
-
-
 
 
 params = {'legend.fontsize': 18,
