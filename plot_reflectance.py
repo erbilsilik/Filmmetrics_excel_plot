@@ -1,13 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  5 12:17:49 2016
-
-@author: Erbil ŞİLİk
-"""
-
-# -*- coding: utf-8 -*-
-
-
 # import modules
 import pandas as pd 
 import matplotlib.pyplot as plt
